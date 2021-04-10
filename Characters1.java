@@ -20,10 +20,6 @@ class Characters1
 		{
 			System.out.print("Given element is a "+t+" numerical value ");
 		}
-		else if(t==32)
-		{
-			System.out.print("the char is space");
-		}
 		else
 		{
 			System.out.print("the char is special char");
